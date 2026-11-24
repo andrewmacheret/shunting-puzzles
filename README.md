@@ -1,5 +1,7 @@
 # Shunting puzzles
 
+[![License](https://img.shields.io/badge/license-MIT-lightgray.svg)](https://github.com/andrewmacheret/shunting-puzzles/blob/master/LICENSE.md)
+
 ## Inglenook
 
 There are 8 cars among 3 tracks.
